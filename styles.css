@@ -1,0 +1,19 @@
+
+
+img {
+    width: 200px;
+}
+
+
+
+body {
+    text-align: center;
+}
+
+body {
+        background-image: url(" https://4gnews.pt/wp-content/uploads/2018/03/Avengers-Infinity-War-Marvel.jpg ");
+} 
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
