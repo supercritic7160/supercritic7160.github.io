@@ -1,7 +1,7 @@
 
 
 img {
-    width: 200px;
+    width: 400px;
 }
 
 
@@ -11,9 +11,25 @@ body {
 }
 
 body {
-        background-image: url(" https://4gnews.pt/wp-content/uploads/2018/03/Avengers-Infinity-War-Marvel.jpg ");
+        background-image: url("https://images.pond5.com/simple-star-space-background-effect-footage-023768280_prevstill.jpeg ");
 } 
-img {
-    opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+
+body {
+    text-align: center;
+    font-family: "";
+   
+    color: white;
+}
+
+p {
+    margin: 25px 300px 75px 300px;
+}
+
+p {
+    font-size: 20px;
+}
+h1 {
+    font-size: 40px;
 }
